@@ -1,0 +1,5 @@
+
+#Cuantas veces aparece un elemnto en una tupla
+
+numeros,("1,2,3,2,5,2,1")
+print(elementos.count(tuple)(3))
